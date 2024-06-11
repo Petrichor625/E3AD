@@ -77,7 +77,7 @@ DrivePilot is pioneering in leveraging the linguistic capabilities of GPT-4V for
 
 *Illustration of the chain-of-thought prompting used in DrivePilot to generate semantic annotations for a given traffic scene.*
 
-## Comparison against state-of-the-art
+## Comparison Against SOTA
 
 <div align="center">
   <img src="static/images/Table1.jpg" width="80%" alt="Visual Image" />
