@@ -1,6 +1,5 @@
 <div align="center">
   <h1>E3AD: An Ethical End-to-End Autonomous Driving Framework Leveraging Large Language Models</h1>
-  <p>Anonymous Author(s),<br>Anonymous Institution Name<br><sup>*Indicates Equal Contribution</sup></p>
 </div>
 
 <div align="center">
